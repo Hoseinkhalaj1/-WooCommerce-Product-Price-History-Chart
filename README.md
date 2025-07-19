@@ -2,7 +2,7 @@
 
 This WordPress snippet/plugin tracks WooCommerce product price changes and displays a historical price chart on the single product page using Chart.js.
 
-For Farsi [Click Here](https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js)
+For Farsi [Click Here](https://github.com/Hoseinkhalaj1/WooCommerce-Product-Price-History-Chart/blob/main/README-Fa)
 
 ---
 
